@@ -57,7 +57,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="file://$(find myco_description)/meshes/MyCo-3.5-0.95/myco_base.STL" />
+          filename="package://myco_description/meshes/MyCo-3.5-0.95/myco_base.STL" />
       </geometry>
       <material
         name="">
@@ -71,7 +71,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="file://$(find myco_description)/meshes/MyCo-3.5-0.95/myco_base.STL" />
+          filename="package://myco_description/meshes/MyCo-3.5-0.95/myco_base.STL" />
       </geometry>
     </collision>
   </link>
@@ -97,7 +97,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="file://$(find myco_description)/meshes/MyCo-3.5-0.95/myco_link1.STL" />
+          filename="package://myco_description/meshes/MyCo-3.5-0.95/myco_link1.STL" />
       </geometry>
       <material
         name="">
@@ -111,7 +111,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="file://$(find myco_description)/meshes/MyCo-3.5-0.95/myco_link1.STL" />
+          filename="package://myco_description/meshes/MyCo-3.5-0.95/myco_link1.STL" />
       </geometry>
     </collision>
   </link>
@@ -155,7 +155,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="file://$(find myco_description)/meshes/MyCo-3.5-0.95/myco_link2.STL" />
+          filename="package://myco_description/meshes/MyCo-3.5-0.95/myco_link2.STL" />
       </geometry>
       <material
         name="">
@@ -169,7 +169,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="file://$(find myco_description)/meshes/MyCo-3.5-0.95/myco_link2.STL" />
+          filename="package://myco_description/meshes/MyCo-3.5-0.95/myco_link2.STL" />
       </geometry>
     </collision>
   </link>
@@ -213,7 +213,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="file://$(find myco_description)/meshes/MyCo-3.5-0.95/myco_link3.STL" />
+          filename="package://myco_description/meshes/MyCo-3.5-0.95/myco_link3.STL" />
       </geometry>
       <material
         name="">
@@ -227,7 +227,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="file://$(find myco_description)/meshes/MyCo-3.5-0.95/myco_link3.STL" />
+          filename="package://myco_description/meshes/MyCo-3.5-0.95/myco_link3.STL" />
       </geometry>
     </collision>
   </link>
@@ -271,7 +271,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="file://$(find myco_description)/meshes/MyCo-3.5-0.95/myco_link4.STL" />
+          filename="package://myco_description/meshes/MyCo-3.5-0.95/myco_link4.STL" />
       </geometry>
       <material
         name="">
@@ -285,7 +285,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="file://$(find myco_description)/meshes/MyCo-3.5-0.95/myco_link4.STL" />
+          filename="package://myco_description/meshes/MyCo-3.5-0.95/myco_link4.STL" />
       </geometry>
     </collision>
   </link>
@@ -329,7 +329,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="file://$(find myco_description)/meshes/MyCo-3.5-0.95/myco_link5.STL" />
+          filename="package://myco_description/meshes/MyCo-3.5-0.95/myco_link5.STL" />
       </geometry>
       <material
         name="">
@@ -343,7 +343,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="file://$(find myco_description)/meshes/MyCo-3.5-0.95/myco_link5.STL" />
+          filename="package://myco_description/meshes/MyCo-3.5-0.95/myco_link5.STL" />
       </geometry>
     </collision>
   </link>
@@ -387,7 +387,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="file://$(find myco_description)/meshes/MyCo-3.5-0.95/myco_link6.STL" />
+          filename="package://myco_description/meshes/MyCo-3.5-0.95/myco_link6.STL" />
       </geometry>
       <material
         name="">
@@ -401,7 +401,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="file://$(find myco_description)/meshes/MyCo-3.5-0.95/myco_link6.STL" />
+          filename="package://myco_description/meshes/MyCo-3.5-0.95/myco_link6.STL" />
       </geometry>
     </collision>
   </link>
